@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @trouze
 - 👀 I’m interested in Data Science and Data Engineering
-- 🌱 I’m currently learning how to productionize Machine Learning apps
+- 🌱 I’m currently learning how to productionize Machine Learning/Optimization apps
 - 💞️ I’m looking to collaborate on a Micro-SaaS app
 - 📫 How to reach me at tyler@tylerrouze.com
 
