@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @trouze
 - 👀 I’m interested in Data Science and Data Engineering
-- 🌱 I’m currently learning how to productionize Machine Learning/Optimization apps
 - 💞️ I’m a contributor to [dbt-core](https://github.com/dbt-labs/dbt-core)
 - 📫 How to reach me at [tyler [at] tylerrouze.com](mailto:tyler@tylerrouze.com)
 
