@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @trouze
-- 👀 I’m interested in Data Science and Data Engineering
-- 💞️ I’m a contributor to [dbt-core](https://github.com/dbt-labs/dbt-core)
+- 👀 I’m interested in Data Architecture and AI
+- 💞️ I’m a contributor to [dbt](https://github.com/dbt-labs/dbt)
 - 📫 How to reach me at [tyler [at] tylerrouze.com](mailto:tyler@tylerrouze.com)
 
 <!---
