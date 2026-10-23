@@ -2,7 +2,7 @@
 
 ## `$ whoami`
 
-- 🏢 Senior Forward Deployed Architect at Fivetran
+- 🏢 Senior Forward Deployed Architect at Fivetran x dbt Labs
 - 🇺🇸 Based in Austin, TX
 - 🤝 Contributor to [dbt](https://github.com/dbt-labs/dbt)
 
