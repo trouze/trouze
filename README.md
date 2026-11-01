@@ -8,6 +8,6 @@
 
 ## `$ ping`
 
-- 💻 [tylerrouze.com](tylerrouze.com)
+- 💻 [tylerrouze.com](https://tylerrouze.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/tylerrouze)
 - 🐦 [X](https://x.com/tylerrouze)
